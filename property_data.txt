@@ -1,0 +1,12 @@
+499000.0|2|false|residence|abc123|true
+5999999.0|5|true|residence|xyz789|false
+2500000.0|6|true|residence|777def|false
+1000000.0|retail|876tru|1200|true
+99999.0|commercial|9999|false|false
+740100.0|3|false|residence|mr6789|false
+15000000.00|20|true|residence|78444a|false
+7100000.0|10|false|residence|mmm33|false
+4000000.0|commercial|678T|true|true
+700000.0|retail|y6yyy|750|false
+840000.0|commercial|A1212|false|true
+1600000.0|3|false|residence|9000a|false

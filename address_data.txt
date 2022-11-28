@@ -1,0 +1,12 @@
+1a|777|56th avenue|v7n2m8|surrey
+ |123|main street|v7r2g2|west vancouver
+ |456|elm street|90210|los angeles
+44|1111|maple street|v8y3r5|vancouver
+9|99|gretzky way|t6v7h3|toronto
+b|711|country road|v8h5f5|maple ridge
+ |8785|pinnacle avenue|v9u3h3|north vancouver
+ |800|elm street|90557|los angeles
+ |1515|main street|v8y7r3|west vancouver
+6|60|60th street|v8u9b1|burnaby
+7h|1500|railway avenue|v9v5v4|richmond
+ |333|elm street|90111|los angeles
